@@ -30,7 +30,8 @@
     border: none;
     padding: 10px;
     outline-width: 0;/* boolean vlaue to remove outline border */
-    /* width: 250px; */
+   width: 250px;
+  
   
     
 }

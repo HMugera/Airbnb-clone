@@ -1,48 +1,47 @@
-.search{
-    position: absolute;
-    top: 35px;
-    left: 25%;
-    width: 100vw;
+.search {
+  position: absolute;
+  top: 35px;
+  left: 25%;
+  width: 100vw;
 }
 
-.search > h2{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 559px;
-    padding:10px;
-    background-color: #fff;
-    position: absolute;
-    left: 0;
-    top: 340px;
+.search > h2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 559px;
+  padding: 10px;
+  background-color: #fff;
+  position: absolute;
+  left: 0;
+  top: 340px;
 }
 
-.search > input{
-    width: 539px;
-    padding: 20px;
-    position: absolute;
-    left: 0;
-    height: 30px;
-    top: 380px;
-    border: none;
-    font-size: 12px;
-    
+.search > input {
+  width: 539px;
+  padding: 20px;
+  position: absolute;
+  left: 0;
+  height: 30px;
+  top: 380px;
+  border: none;
+  font-size: 12px;
 }
 
-.search > input:focus{
-    outline-width: 0;
+.search > input:focus {
+  outline-width: 0;
 }
 
-.search > button{
-    position: absolute;
-    left: 0;
-    top: 440px;
-    background-color: #ff7779;
-    text-transform: inherit !important;
-    color:#fff;
-    width: 579px;
+.search > button {
+  position: absolute;
+  left: 0;
+  top: 440px;
+  background-color: #ff7779;
+  text-transform: inherit !important;
+  color: #fff;
+  width: 579px;
 }
-.search > button:hover{
-    color: #ff7779;
-    background-color: #fff;
+.search > button:hover {
+  color: #ff7779;
+  background-color: #fff;
 }
