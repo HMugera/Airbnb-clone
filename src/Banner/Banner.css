@@ -19,7 +19,8 @@
     display: flex;
     flex-direction: column;
 }
-/* whenever we give a material ui component  a class we need to add !important */
+/* whenever we give a material ui component 
+a class we need to add !important */
 .banner__searchButton {
   background-color: white !important;
   font-weight: 900 !important;
