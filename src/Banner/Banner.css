@@ -28,7 +28,7 @@ a class we need to add !important */
   color: #ff7779 !important;
 }
 
-.banner__info > button {
+.banner__info >  button {
   background-color: #ff7779;
   color: #fff;
   text-transform: inherit;
